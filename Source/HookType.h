@@ -1,8 +1,6 @@
 #pragma once
 
 #include "Hooks/MinHook.h"
-#include "Hooks/VmtHook.h"
-#include "Hooks/VmtSwap.h"
 #include "Platform/Macros/IsPlatform.h"
 
 #if IS_WIN32()
